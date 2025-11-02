@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My website</title>
+    <link rel="icon" type="image/x-icon" href="images/raptor.ico">
+    <link rel="stylesheet" href="mystyle.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;600;700&family=Saira+Semi+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+
+
+    <!--:root{
+        --main-red-color: rgb(213, 17, 27);
+    }-->
+
+    <!--<style>
+        --red_color="rgb(213, 17, 27)"
+    </style>-->
+</head>
+<body>
+
+    <header id="header">
+
+        <ul class="navigation-menu">
+            <li class="navigation-item-wrapper">
+                <a href="index.html" class="navigation-item">
+                    About
+                </a>
+            </li>
+            <li class="navigation-item-wrapper">
+                <a href="myprojects.html" id="projects" class="navigation-item">
+                    Projects
+                </a>
+            </li>
+            <li class="navigation-item-wrapper">
+                <a href="mycontact.html" class="navigation-item">
+                    Contact
+                </a>
+            </li>
+        </ul>
+
+    </header>
+
+
+    <main>
+        <div style="text-align:center;">
+            <a href="#footer" class="util-link saira-text">
+                GO TO THE BOTTOM OF THE PAGE
+            </a>
+        </div>
+
+        <flexbox style="display:flex; align-items: center; justify-content: space-between">
+            <h1 style="text-align: left; margin-left: 20px" class="saira-text">
+                Projects
+            </h1>
+
+
+            <div style="display: flex;">
+                <button class="list-button" id="showList">
+                    list
+                    <img id="list_button_icon" src="images/listbutton.png" width="10" height="10">
+                </button>
+
+
+            </div>
+        </flexbox>
+
+        <div id="list" style="border: 5px solid rgb(213, 17, 27); padding:10px;  background-color: white; color:black;align-self: center">
+            <div style="display: flex; justify-content:space-evenly">
+                <div style="display: grid">
+                    <h1 style="font-size: x-large">Programming</h1>
+
+
+                    <a href="#notepadsharp" class="project-jump-link">NotepadSharp</a>
+
+                </div>
+
+                <div style="border: 5px dashed rgb(213, 17, 27  );"></div> <!-- rgb(182, 255, 0) -->
+
+                <div style="display: grid">
+                    <h1 style="font-size: x-large">Electronics</h1>
+                    <a href="#mtb_computer" class="project-jump-link">MTB computer</a>
+                </div>
+            </div>
+
+        </div>
+
+
+
+
+
+        <div class="project-card">
+            <div id="mtb_computer">
+                <h1 class="project-name saira-text"><b class="saira-text">MTB COMPUTER</b>    </h1><br><br>
+                <p class="saira-text">
+                    An embedded system that mounts on a bicycle and
+                    shows stats like speed, all-time kilometers, temperature etc.
+                    You can also turn on turn-lights by pressing left and right buttons<br><br>
+                    <img src="images/warning_icon.png" width="20" height="20"/>
+                    <i class="saira-text">NOT FINISHED (WIP)</i>
+                </p>
+                <a href="mtbcomputer.html" class="project-link saira-text">
+                    Explore
+                </a>
+            </div>
+            <div>
+                <div>
+                    <img src="images/projects/bike computer/back view.jpg" class="project-image" />
+                </div>
+            </div>
+
+        </div>
+
+        <div class="project-card">
+
+            <div id="notepadsharp">
+                <h1 class="project-name saira-text">NotepadSharp</h1><br><br>
+                <p class="saira-text">
+                    Simple text editor<br><br />
+                    <img src="images/warning_icon.png" width="20" height="20"/>
+                    <i class="saira-text">NOT FINISHED (WIP)</i>
+                </p>
+                <a href="notepadsharp.html" class="project-link">
+                    Explore
+                </a>
+            </div>
+            <div>
+                <div>
+                    <img src="images/projects/notepadsharp/view 0.png" class="project-image" />
+                </div>
+            </div>
+        </div>
+
+        <div style="text-align:center;">
+            <a href="#header" class="util-link saira-text">
+                GO TO THE TOP OF THE PAGE
+            </a>
+        </div>
+
+        </div>
+    </main>
+
+    <footer id="footer">
+        <p>
+            <image src="icons/github-mark.svg" style="width: 20px; height:20px;">
+
+            </image>
+            GitHub:
+            <a href="https://github.com/danilaprib"
+               class="footer-link"
+               target="_blank" rel="noopener noreferrer">
+                https://github.com/danilaprib
+            </a>
+        </p>
+        <p>
+            E-mail:
+            <a href="mailto:daniil.prib@gmail.com"
+               class="footer-link">
+                daniil.prib@gmail.com
+            </a>
+        </p>
+        <p>
+            <image src="icons/linkedin.svg" style="width: 20px; height:20px;">
+
+            </image>
+            LinkedIn:
+            <a href="https://www.linkedin.com/in/daniil-prybyshchuk-1036092b4"
+               class="footer-link"
+               target="_blank"
+               rel="noopener noreferrer">
+                linkedin.com/in/daniil-prybyshchuk-1036092b4
+            </a>
+        </p>
+        <p>
+            <image src="icons/phone.svg" style="width: 20px; height:20px;">
+
+            </image>
+            Phone: +370-65432-593
+        </p>
+    </footer>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            $("a").on('click', function (event) {
+
+                if (this.hash !== "") {
+                    event.preventDefault();
+
+                    var hash = this.hash;
+
+                    $('html, body').animate({
+                        scrollTop: $(hash).offset().top
+                    }, 400, function () {
+
+                        window.location.hash = hash;
+                    });
+                }
+            });
+        });
+
+
+
+        const btn = document.getElementById("showList");
+        const info = document.getElementById("list");
+
+        btn.addEventListener("click", function () {
+            if (info.style.display === "none" || info.style.display === "") {
+                info.style.display = "block";
+            } else {
+                info.style.display = "none";                
+            }
+        });
+    </script>
+
+
+</body>
+</html>
