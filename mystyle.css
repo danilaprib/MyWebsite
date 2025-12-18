@@ -69,6 +69,7 @@ button {
     list-style-type: none;
     display: flex;
     flex-direction: row;
+    margin: 10px;
 }
 
 .navigation-item {
