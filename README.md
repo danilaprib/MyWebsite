@@ -6,8 +6,8 @@ General info
 
 ## Projects
 
-list of programming and electronics projects I'm working on
+List of my personal programming and electronics projects
 
 ## Contact
 
-on this page you can contact me
+On this page you can contact me

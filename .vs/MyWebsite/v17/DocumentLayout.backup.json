@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\drone.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:drone.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\droneapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:droneapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\musicplayer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:musicplayer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\myprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mtbcomputer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mtbcomputer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mycontact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mycontact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\bikecomputer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\bikecomputer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\drone.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\drone.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\droneapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\droneapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\musicplayer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\musicplayer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\notepadsharp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects\\notepadsharp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\notepadsharp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:notepadsharp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mycontact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mycontact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\bikeapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bikeapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mywebsite.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,7 +65,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 1411,
+          "DockedHeight": 1307,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -79,132 +79,43 @@
           ]
         },
         {
-          "DockedHeight": 71,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 233,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "musicplayer.html",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\musicplayer.html",
-              "RelativeDocumentMoniker": "musicplayer.html",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\musicplayer.html",
-              "RelativeToolTip": "musicplayer.html",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-18T22:57:51.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "droneapp.html",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\droneapp.html",
-              "RelativeDocumentMoniker": "droneapp.html",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\droneapp.html",
-              "RelativeToolTip": "droneapp.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-18T22:47:54.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "drone.html",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\drone.html",
-              "RelativeDocumentMoniker": "drone.html",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\drone.html",
-              "RelativeToolTip": "drone.html",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-18T22:47:48.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "users manual.pdf",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\users manual.pdf",
-              "RelativeDocumentMoniker": "users manual.pdf",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\users manual.pdf",
-              "RelativeToolTip": "users manual.pdf",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI6SURBVDhPpZO7axRRFId/d2YnWeMy4kZ8xAcoBIOxS8RS8x8o2KiNYBtRg6XEJlgI2thZ2SRdMMUGG4v0IgaMGk0ULSRxXdz4Wp1xZq7n3Mfu3TCrLH5w5jzn3HPvnREg\u002BvaMHBy8sDBN5nH2/4afNZK95eD6w8kDd5Loe2rCGimlZ8xeQPQLgh3WbBpR2Dg9At/3ps7crl7eNjBc4ngTytuGBLUnWpZkbe1mXCmgQM\u002BbY\u002BOVq7sOj5U5Z3Eadk1QDHdOHDt794rb1GnIG/r3lrNMkkD7EGFpx6FLo\u002BfvjYe7j2zlWNdbll5RvltvyKU3NTxbrWFp9VP4vt577jd69nNN1xNCeMIvhsLfUkahr8ya/O2U87lEj06fzRB9NnNkDrJf8AVOj/ooBiqt4SG5L\u002BlfCfDgcYIkMzlgZeX\u002ByVONtSfLBRNoo4cWu3giQH/Jaejw\u002BYdE5WmKJFYn0UbHW/Yp00k8Wid/qQ5nyGZGi9Nt8g4Fi2srMW9opd5SOA1bcLO31Qyv1jMsr2lZeJlifjFFZTHBo\u002BcpUi7KwWmoPgpdRTqhvzSlqUjYllNzMSZnI3ljNpa3KrGM6WJMvX1LkTshn9HQgIej\u002B7QMk2z8zJ9oM7lnaDVjbDfOapPPniZ3y/R7ydo3ieoXiY8bmax\u002B1XGTb9a1fPY0uRNGKQSdFSZmIhZxjcRW2MJ2nz1Nxwlf0w2/\u002BKBEstgKW9jus6fJvZT/wTaM6J\u002BvewRvw2qGbca4Cus78Tr3AIA/fjo\u002BNcqY/SMAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-10-17T22:01:46.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "mtbcomputer.html",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mtbcomputer.html",
-              "RelativeDocumentMoniker": "mtbcomputer.html",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mtbcomputer.html",
-              "RelativeToolTip": "mtbcomputer.html",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAswJkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-17T07:19:39.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "myprojects.html",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\myprojects.html",
               "RelativeDocumentMoniker": "myprojects.html",
               "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\myprojects.html",
               "RelativeToolTip": "myprojects.html",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAswIYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAFYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-15T22:12:58.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "notepadsharp.html",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\notepadsharp.html",
-              "RelativeDocumentMoniker": "notepadsharp.html",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\notepadsharp.html",
-              "RelativeToolTip": "notepadsharp.html",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGsAAABHAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\notepadsharp.html",
+              "RelativeDocumentMoniker": "Projects\\notepadsharp.html",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\notepadsharp.html",
+              "RelativeToolTip": "Projects\\notepadsharp.html",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-15T22:12:50.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "mystyle.css",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mystyle.css",
-              "RelativeDocumentMoniker": "mystyle.css",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mystyle.css",
-              "RelativeToolTip": "mystyle.css",
-              "ViewState": "AgIAADQAAAAAAAAAAAAswEYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-15T22:12:49.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "mywebsite.html",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mywebsite.html",
-              "RelativeDocumentMoniker": "mywebsite.html",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mywebsite.html",
-              "RelativeToolTip": "mywebsite.html",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-15T22:12:47.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "mycontact.html",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mycontact.html",
               "RelativeDocumentMoniker": "mycontact.html",
               "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mycontact.html",
               "RelativeToolTip": "mycontact.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwHwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-15T22:12:42.776Z"
             },
@@ -216,21 +127,103 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-11-02T17:33:02.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "bikeapp.html",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\bikeapp.html",
-              "RelativeDocumentMoniker": "bikeapp.html",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\bikeapp.html",
-              "RelativeToolTip": "bikeapp.html",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "musicplayer.html",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\musicplayer.html",
+              "RelativeDocumentMoniker": "Projects\\musicplayer.html",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\musicplayer.html",
+              "RelativeToolTip": "Projects\\musicplayer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-06T21:37:19.49Z"
+              "WhenOpened": "2025-12-18T22:57:51.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "droneapp.html",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\droneapp.html",
+              "RelativeDocumentMoniker": "Projects\\droneapp.html",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\droneapp.html",
+              "RelativeToolTip": "Projects\\droneapp.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-18T22:47:54.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "drone.html",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\drone.html",
+              "RelativeDocumentMoniker": "Projects\\drone.html",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\drone.html",
+              "RelativeToolTip": "Projects\\drone.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-18T22:47:48.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bikecomputer.html",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\bikecomputer.html",
+              "RelativeDocumentMoniker": "Projects\\bikecomputer.html",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\Projects\\bikecomputer.html",
+              "RelativeToolTip": "Projects\\bikecomputer.html",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-17T07:19:39.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mystyle.css",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mystyle.css",
+              "RelativeDocumentMoniker": "mystyle.css",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mystyle.css",
+              "RelativeToolTip": "mystyle.css",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwIkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-15T22:12:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mywebsite.html",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mywebsite.html",
+              "RelativeDocumentMoniker": "mywebsite.html",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\mywebsite.html",
+              "RelativeToolTip": "mywebsite.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-15T22:12:47.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-03T11:51:20.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "users manual.pdf",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\users manual.pdf",
+              "RelativeDocumentMoniker": "users manual.pdf",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\users manual.pdf",
+              "RelativeToolTip": "users manual.pdf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI6SURBVDhPpZO7axRRFId/d2YnWeMy4kZ8xAcoBIOxS8RS8x8o2KiNYBtRg6XEJlgI2thZ2SRdMMUGG4v0IgaMGk0ULSRxXdz4Wp1xZq7n3Mfu3TCrLH5w5jzn3HPvnREg\u002BvaMHBy8sDBN5nH2/4afNZK95eD6w8kDd5Loe2rCGimlZ8xeQPQLgh3WbBpR2Dg9At/3ps7crl7eNjBc4ngTytuGBLUnWpZkbe1mXCmgQM\u002BbY\u002BOVq7sOj5U5Z3Eadk1QDHdOHDt794rb1GnIG/r3lrNMkkD7EGFpx6FLo\u002BfvjYe7j2zlWNdbll5RvltvyKU3NTxbrWFp9VP4vt577jd69nNN1xNCeMIvhsLfUkahr8ya/O2U87lEj06fzRB9NnNkDrJf8AVOj/ooBiqt4SG5L\u002BlfCfDgcYIkMzlgZeX\u002ByVONtSfLBRNoo4cWu3giQH/Jaejw\u002BYdE5WmKJFYn0UbHW/Yp00k8Wid/qQ5nyGZGi9Nt8g4Fi2srMW9opd5SOA1bcLO31Qyv1jMsr2lZeJlifjFFZTHBo\u002BcpUi7KwWmoPgpdRTqhvzSlqUjYllNzMSZnI3ljNpa3KrGM6WJMvX1LkTshn9HQgIej\u002B7QMk2z8zJ9oM7lnaDVjbDfOapPPniZ3y/R7ydo3ieoXiY8bmax\u002B1XGTb9a1fPY0uRNGKQSdFSZmIhZxjcRW2MJ2nz1Nxwlf0w2/\u002BKBEstgKW9jus6fJvZT/wTaM6J\u002BvewRvw2qGbca4Cus78Tr3AIA/fjo\u002BNcqY/SMAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-17T22:01:46.608Z"
             },
             {
               "$type": "Document",
@@ -263,22 +256,16 @@
           ]
         },
         {
-          "DockedHeight": 724,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 724,
+          "DockedHeight": 50,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
