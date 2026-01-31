@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\myprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\droneapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:droneapp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\sciencecalc.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sciencecalc.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\myprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:myprojects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\notepadsharp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -73,7 +73,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 1440,
+          "DockedHeight": 1371,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -87,12 +87,12 @@
           ]
         },
         {
-          "DockedHeight": 121,
-          "SelectedChildIndex": 7,
+          "DockedHeight": 155,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "sciencecalc.html",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\sciencecalc.html",
               "RelativeDocumentMoniker": "sciencecalc.html",
@@ -100,8 +100,7 @@
               "RelativeToolTip": "sciencecalc.html",
               "ViewState": "AgIAAEsAAAAAAAAAAAAqwGQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-31T16:24:23.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T16:24:23.661Z"
             },
             {
               "$type": "Document",
@@ -113,18 +112,17 @@
               "RelativeToolTip": "notepadsharp.html",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAIAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-31T15:53:48.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T15:53:48.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "myprojects.html",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\myprojects.html",
               "RelativeDocumentMoniker": "myprojects.html",
               "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\myprojects.html",
               "RelativeToolTip": "myprojects.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-15T22:12:58.597Z",
               "EditorCaption": ""
@@ -150,8 +148,7 @@
               "RelativeToolTip": "mycontact.html",
               "ViewState": "AgIAAEAAAAAAAAAAAAAgwFIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-15T22:12:42.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T22:12:42.776Z"
             },
             {
               "$type": "Document",
@@ -163,12 +160,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAACwAAAAAAAAAAAAQwC0AAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-02T17:33:02.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T17:33:02.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "musicplayer.html",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\musicplayer.html",
               "RelativeDocumentMoniker": "musicplayer.html",
@@ -176,18 +172,17 @@
               "RelativeToolTip": "musicplayer.html",
               "ViewState": "AgIAAFAAAAAAAAAAAAAqwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-18T22:57:51.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T22:57:51.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "droneapp.html",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\droneapp.html",
               "RelativeDocumentMoniker": "droneapp.html",
               "ToolTip": "C:\\Users\\danii\\Desktop\\coding\\MyWebsite\\droneapp.html",
               "RelativeToolTip": "droneapp.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDMAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-18T22:47:54.945Z",
               "EditorCaption": ""
@@ -292,7 +287,7 @@
           ]
         },
         {
-          "DockedHeight": 30,
+          "DockedHeight": 64,
           "SelectedChildIndex": -1,
           "Children": [
             {
