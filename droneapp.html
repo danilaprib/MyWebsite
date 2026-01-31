@@ -37,61 +37,87 @@
     <main>
 
         <h1 style="text-align:center" s class="saira-text">
-            <b>Drone app</b>
+            <b>GroundDroneApp</b>
         </h1>
         <p style="text-align: center; font-size: large" class="saira-text">
-            App to remotely control the ground drone
+            Desktop application for controlling the drone remotely and getting readings from it and storing them in the database
         </p>
 
 
         <div style="margin: 50px">
             <flexbox class="note-wrapper">
+                <img src="images/projects/groundDroneApp/groundDroneApp_demo.png"
+                     width="640" height="480" />
                 <div>
-                    <h2 style="text-align: center" class="saira-text">placeholder title</h2>
-                    <p class="note-text saira-text">
-                        Controls the ground drone remotely
+                    <h2 style="text-align: center">What is done for now</h2>
+                    <p class="note-text">
+                        Communication with the Arduino board using serial port (you can control 2 servos by pushing buttons in the UI)
                     </p>
-
-                    <p class="note-text saira-text">
-                        Written in C# and XAML using WPF
+                    <p class="note-text">
+                        RepeatButtons send commands to Arduino without any errors
+                    </p>
+                    <p class="note-text">
+                        Overall UI design
                     </p>
                 </div>
-
-                <img src="images\projects\groundDrone\drone.png" class="project-image" />
             </flexbox>
 
             <flexbox class="note-wrapper">
-                <img src="images\projects\groundDroneApp\droneapp.png" width="640" height="480" />
+
                 <div>
-                    <h2 style="text-align: center" class="saira-text">placeholder title</h2>
-                    <p class="note-text saira-text">
-                        has 4 gears to set the maximum and minimum speed
+                    <h2 style="text-align: center">Stack used and problems solved during development</h2>
+                    <p class="note-text">
+                        WPF framework and XAML language for designing the user interface and C# for code-behind
                     </p>
-                    <p class="note-text saira-text">
-                        buttons to control the tracks,
-                        handbrake engage buttons
-                        Battery, speed, COM-port status readings
-                        as well as current day time and camera control
+                    <p class="note-text">
+                        SerialPort class to instantiate serial port object to be able to send UTF-8 ASCII to Arduino board
+                    </p>
+                    <p class="note-text">
+                        Arduino code that uses Serial class to read the ASCII from the buffer and execute the corresponding commands based on what ASCII was received
+                    </p>
+                    <p class="note-text">
+                        You can control 2 servo motors (left-right and up-down) using arrow keys on your keyboard. Pressing and holding the key down rotates the servo motor, releasing the key stops the motor
                     </p>
                 </div>
 
+                <img src="images/projects/groundDroneApp/groundDroneApp_demo.png"
+                     width="640" height="480" />
+            </flexbox>
+
+            <flexbox class="note-wrapper">
+                <img src="images/projects/groundDroneApp/groundDroneApp_new_ui_demo.png"
+                     width="640" height="480" />
+                <div>
+                    <h2 style="text-align: center">To be implemented and reworked</h2>
+                    <p class="note-text">
+                        New, more modern UI with multiple themes to select
+                    </p>
+                    <p class="note-text">
+                        More UI elements to control the camera, tracks, set the maximum speed and other components on the drone
+                    </p>
+                    <p class="note-text">
+                        Apache Cassandra database to get real-time reading from the sensors and store them for future debugging
+                    </p>
+                    <p class="note-text">
+                        Fully functional remote control not using USB wires
+                    </p>
+                    <p class="note-text">
+                        .exe installer for Windows
+                    </p>
+                    <p class="note-text">
+                        Bug fixing, add unit tests and documentation with explanations for users of how to work with it
+                    </p>
+                </div>
             </flexbox>
 
 
             <p>
                 github link:
                 <a class="footer-link"
-                   href="https://github.com/danilaprib">
-                    https://github.com/danilaprib
+                   href="https://github.com/danilaprib/GroundDroneApp">
+                    https://github.com/danilaprib/GroundDroneApp
                 </a>
             </p>
-            <p>
-                user's manual':
-                <a class="footer-link"
-                   MTB computer users manual (pdf latex)
-                </a>
-            </p>
-        </div>
 
 
     </main>

@@ -34,44 +34,87 @@
     <main>
 
         <h1 style="text-align:center" s class="saira-text">
-            <b>Music player</b>
+            <b>MusicPlayer</b>
         </h1>
         <p style="text-align: center; font-size: large" class="saira-text">
-            Musical player for <strong class="saira-text">Windows</strong>
+            Music player with <strong>hotkeys</strong> for <strong>audio playback controls</strong> and <strong>navigating between directories</strong>
         </p>
 
 
         <div style="margin: 50px">
             <flexbox class="note-wrapper">
+                <img src="images/projects/musicPlayer/musicplayer_demo.png"
+                     width="640" height="480" />
                 <div>
-                    <h2 style="text-align: center" class="saira-text">MusicPlayer</h2>
-                    <p class="note-text saira-text">
-                        Musical player
+                    <h2 style="text-align: center">What is done for now</h2>
+                    <p class="note-text">
+                        You can specify the directory to load audio files from by typing it in the text box at the top or opening a dialog window
                     </p>
+                    <p class="note-text">
+                        Enumerating the audio files from the specified directory with data binding to show their names in the list
+                    </p>
+                    <p class="note-text">
+                        Creating new files, deleting files, writing and saving text
+                    </p>
+                    <p class="note-text">
+                        Simple arithmetic expression parser that allows you to insert results into text<br> (CANNOT HANDLE PARENTHESES YET)
+                    </p>
+                </div>
+            </flexbox>
 
-                    <p class="note-text saira-text">
-                        musical player written in C# and XAML
+            <flexbox class="note-wrapper">
+
+                <div>
+                    <h2 style="text-align: center">Stack used and problems solved during development</h2>
+                    <p class="note-text">
+                        WPF framework and XAML language for designing the user interface and C# for code-behind
+                    </p>
+                    <p class="note-text">
+                        File enumeration from the specified directory to get all the .mp3 files
+                    </p>
+                    <p class="note-text">
+                        Timer to show the current position on the song
+                    </p>
+                    <p class="note-text">
+                        MediaElement from WPF to load the audio file into and control left-right balance, rewind, etc.
                     </p>
                 </div>
 
-                <img src="images\projects\musicPlayer\musicplayer.png" class="project-image" />
+                <img src="images/projects/musicPlayer/musicplayer_demo.png"
+                     width="640" height="480" />
             </flexbox>
+
+            <flexbox class="note-wrapper">
+                <img src="images/projects/musicPlayer/musicplayer_new_ui_demo.png"
+                     width="640" height="480" />
+                <div>
+                    <h2 style="text-align: center">To be implemented and reworked</h2>
+                    <p class="note-text">
+                        New, more modern UI with multiple themes to select
+                    </p>
+                    <p class="note-text">
+                        More audio file formats than just .mp3
+                    </p>
+                    <p class="note-text">
+                        .exe installer for Windows
+                    </p>
+                    <p class="note-text">
+                        Bug fixing, add unit tests and documentation with explanations for users of how to work with it
+                    </p>
+                </div>
+            </flexbox>
+
 
             <p>
                 github link:
                 <a class="footer-link"
-                   href="https://github.com/danilaprib">
-                    https://github.com/danilaprib
+                   href="https://github.com/danilaprib/MusicPlayer">
+                    https://github.com/danilaprib/MusicPlayer
                 </a>
             </p>
-            <p>
-                user's manual':
-                <a class="footer-link"
-                   MTB computer users manual (pdf latex)
-                </a>
-            </p>
-        </div>
 
+
+        </div>
 
     </main>
 

@@ -48,57 +48,77 @@
     <main>
 
         <h1 style="text-align:center" s class="saira-text">
-            <b>Notepad#</b>
+            <b>Notepad# (reads Notepad Sharp)</b>
         </h1>
         <p style="text-align: center; font-size: large" class="saira-text">
-            Simple <strong class="saira-text">text editor</strong> with <strong class="saira-text">command line</strong> interface
+            Windows <strong>text editor</strong> with hotkeys for faster UI interaction and directory navigation and a built-in <strong>arithmetic expression</strong> parser
         </p>
 
 
         <div style="margin: 50px">
             <flexbox class="note-wrapper">
-                <img src="images/projects/notepadsharp/view 0.png"
+                <img src="images/projects/notepadSharp/notepadsharp_demo.png"
                      width="640" height="480" />
                 <div>
-                    <h2 style="text-align: center" class="saira-text">Terminal</h2>
-                    <p class="note-text saira-text">
-                        you can execute commands like cat, ls and awk
+                    <h2 style="text-align: center">What is done for now</h2>
+                    <p class="note-text">
+                        Directory navigation with either Directory text box or a file dialog
                     </p>
-                    <p class="note-text saira-text">
-                        press buttons to execute commands and see the results in the terminal
+                    <p class="note-text">
+                        Hotkeys to swap (change focus) between UI elements
+                    </p>
+                    <p class="note-text">
+                        Creating new files, deleting files, writing and saving text
+                    </p>
+                    <p class="note-text">
+                        Simple arithmetic expression parser that allows you to insert results into text<br> (CANNOT HANDLE PARENTHESES YET)
                     </p>
                 </div>
             </flexbox>
 
             <flexbox class="note-wrapper">
-                <div>
-                    <h2 style="text-align: center" class="saira-text">Text panel</h2>
-                    <p class="note-text saira-text">
-                        this is your main tab
-                    </p>
 
-                    <p class="note-text saira-text">
-                        which displays the text
+                <div>
+                    <h2 style="text-align: center">Stack used and problems solved during development</h2>
+                    <p class="note-text">
+                        WPF framework and XAML language for designing the user interface and C# for code-behind
+                    </p>
+                    <p class="note-text">
+                        File streams to open, modify and save text files
+                    </p>
+                    <p class="note-text">
+
+                    </p>
+                    <p class="note-text">
+                        Arithmetic expression parser that creates a linked list from string expression with nodes for operators and numbers and solves it in 2 iterations:<br>
+                        1st being high precedence (multiplication and division)<br>
+                        and 2nd being low precedence (addition and subtraction)<br>
+
                     </p>
                 </div>
-                <img src="images/projects/notepadsharp/view 0.png"
-                     width="640" height="480" />
 
+                <img src="images/projects/notepadSharp/notepadsharp_demo.png"
+                     width="640" height="480" />
             </flexbox>
 
             <flexbox class="note-wrapper">
-                <img src="images/projects/notepadsharp/view 0.png"
+                <img src="images/projects/notepadSharp/notepadsharp_new_ui_demo.png"
                      width="640" height="480" />
                 <div>
-                    <h2 style="text-align: center" class="saira-text">Calculator</h2>
-                    <p class="note-text saira-text">
-                        Expression parser
+                    <h2 style="text-align: center">To be implemented and reworked</h2>
+                    <p class="note-text">
+                        New, more modern UI with multiple themes to select
                     </p>
-                    <p class="note-text saira-text">
-                        enter your expression, then press = button and it will give result
+                    <p class="note-text">
+                        Redo the parser so it can handle expressions with parentheses
+                    </p>
+                    <p class="note-text">
+                        Make an .exe installer for Windows
+                    </p>
+                    <p class="note-text">
+                        Bug fixing, add unit tests and documentation with explanations for users of how to work with it
                     </p>
                 </div>
-
             </flexbox>
 
 

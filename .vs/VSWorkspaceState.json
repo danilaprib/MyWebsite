@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images\\projects"
+    "\\images",
+    "\\images\\projects",
+    "\\images\\projects\\groundDroneApp"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\droneapp.html",
   "PreviewInSolutionExplorer": false
 }
